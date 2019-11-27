@@ -1,1 +1,1 @@
-This is just a simple test branch for learning about git
+This is just a test repo for learning about git
