@@ -1,7 +1,8 @@
-int sqrt(int b)
+#include "sqrt.h"
+
+float sqrt(float x)
 {
-	int a * x + b;
-	a += 1;
-	a = b - a;
-	return b*b + c*c;
+	float a = x;
+	float y = x - 1;
+	return y*y + a*a;
 }
