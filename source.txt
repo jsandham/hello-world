@@ -1,1 +1,1 @@
-A source file
+A sample source file
