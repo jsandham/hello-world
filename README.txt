@@ -1,4 +1,3 @@
 A test repo for learning about git
-Adding line 1
-Adding line 2
-Adding line 3
+
+Instructions for using this repo would go here:
