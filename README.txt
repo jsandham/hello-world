@@ -1,4 +1,2 @@
+This is just a test repo for learning about git
 A test repo for learning about git
-Adding line 1
-Adding line 2
-Adding line 3
